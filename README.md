@@ -6,7 +6,7 @@
 Uma empresa que busca a plena **satisfação** de seus *clientes* bem como dos seus *stakeholders*. Nossa prioridade é uma *resolução de problemas* **eficiente** para **facilitar** o cotidiano!
 
 <br>
----
+<hr>
 <br>
 
 ## Missão 🎯
@@ -37,7 +37,7 @@ Ser referência no mercado como a empresa mais **confiável e eficiente** na *re
 
   
 <br>
----
+<hr>
 <br>
 
 # Identidade Visual da Empresa 🎨
