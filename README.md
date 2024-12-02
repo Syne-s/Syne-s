@@ -1,13 +1,14 @@
 <h1 align="center" style="border: none; margin-bottom: 0; text-decoration:none;">Olá, somos a Synes! 🧮</h1>
 
 <br>
+<hr>
+<br>
 
 # Sobre *nós* ✍️
 Uma empresa que busca a plena **satisfação** de seus *clientes* bem como dos seus *stakeholders*. Nossa prioridade é uma *resolução de problemas* **eficiente** para **facilitar** o cotidiano!
 
 <br>
-<hr>
-<br>
+
 
 ## Missão 🎯
 
