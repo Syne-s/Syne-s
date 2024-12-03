@@ -1,14 +1,33 @@
 <h1 align="center" style="border: none; margin-bottom: 0; text-decoration:none;">Olá, somos a Synes! 🧮</h1>
 
 <br>
-<hr>
-<br>
 
 # Sobre *nós* ✍️
 Uma empresa que busca a plena **satisfação** de seus *clientes* bem como dos seus *stakeholders*. Nossa prioridade é uma *resolução de problemas* **eficiente** para **facilitar** o cotidiano!
 
 <br>
 
+<a id="equipe"></a>
+##  Nossa Equipe 🙋
+
+| Nome                                | Função             |
+|-------------------------------------|--------------------|
+| Carla Suenne Barbosa da Silva       | Back-End           |
+| Jerbesson Silva da Costa            | Back-End           |
+| Lorenna Aguiar Nunes                | Front-End          |
+| Maria Graziela Mendes Castro        | Front-End          |
+| Maria Luíza de Meneses Albuquerque  | Designer           |
+| Renan Carlos da Silva Nunes         | Designer e Líder   |
+| Samya Soares Pereira                | Front-End          |
+
+
+<br>
+<hr>
+<br>
+
+# *Missão*, *Visão* e *Valores* da Empresa:
+
+<br>
 
 ## Missão 🎯
 
