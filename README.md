@@ -10,7 +10,10 @@ Uma empresa que busca a plena **satisfação** de seus *clientes* bem como dos s
 <a id="equipe"></a>
 ##  Nossa Equipe 🙋
 
-| Nome                                | Função             |
+<div align="center" >
+
+  
+  | Nome                                | Função             |
 |-------------------------------------|--------------------|
 | Carla Suenne Barbosa da Silva       | Back-End           |
 | Jerbesson Silva da Costa            | Back-End           |
@@ -19,6 +22,10 @@ Uma empresa que busca a plena **satisfação** de seus *clientes* bem como dos s
 | Maria Luíza de Meneses Albuquerque  | Designer           |
 | Renan Carlos da Silva Nunes         | Designer e Líder   |
 | Samya Soares Pereira                | Front-End          |
+
+     
+</div>
+
 
 
 <br>
@@ -97,7 +104,7 @@ Ser referência no mercado como a empresa mais **confiável e eficiente** na *re
 </div>
 <br>
 
-## Tipografia Final:
+## Tipografia *Final*:
 
 <br>
 
