@@ -11,6 +11,7 @@ Uma empresa que busca a plena **satisfação** de seus *clientes* bem como dos s
 ##  Nossa Equipe 🙋
 
 <div align="center" >
+<br>
 
   
   | Nome                                | Função             |
